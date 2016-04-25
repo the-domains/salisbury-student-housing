@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "SALISBURY\_STUDENT\_HOUSING"
-datePublished: '2016-04-25T02:05:51.987Z'
-dateModified: '2016-04-25T02:05:27.371Z'
+description: SALISBURY STUDENT HOUSING
+datePublished: '2016-04-25T02:08:18.453Z'
+dateModified: '2016-04-25T02:05:56.432Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-salisbury-student-housing.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-salisbury-student-housing.md
-published: true
 url: salisbury-student-housing/index.html
 _type: Article
 
